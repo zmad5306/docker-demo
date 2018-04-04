@@ -12,3 +12,7 @@ Very basic docker demo
 ## Check its Running
 
 `docker ps`
+
+## Other commands
+
+`docker inspect docker-demo`
