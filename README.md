@@ -7,7 +7,7 @@ Very basic docker demo
 
 ## Run with Docker
 
-`docker run -d docker-demo:latest -p 8080:80`
+`docker run -dit --name docker-demp -p 8080:80 docker-demo:latest`
 
 ## Check its Running
 
